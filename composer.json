@@ -1,0 +1,15 @@
+{
+	"name": "pflaesterer/vouchignore",
+	"type": "oxideshop-module",
+	"license": "MIT",
+	"extra": {
+		"oxideshop": {
+			"target-directory": "pflaesterer/vouchignore"
+		}
+	},
+	"autoload": {
+		"psr-4": {
+			"Pflaesterer\\VouchIgnore\\": "./"
+		}
+	}
+}
