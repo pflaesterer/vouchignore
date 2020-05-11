@@ -1,6 +1,6 @@
 <?php
 
-namespace Pflaesterer\VouchIgnore\Model;
+namespace Pflaesterer\VouchIgnore\Application\Model;
 
 class Basket extends Basket_parent
 {
