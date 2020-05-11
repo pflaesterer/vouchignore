@@ -18,7 +18,7 @@ $aModule = array(
         'en' => 'If acitive, it ignores vouchers on check if basket is below minimum order price.',
         'de' => 'Ist das Modul aktiv, werden Gutscheine bei der Prüfung auf den Mindestbestellwert nicht berücksichtigt.',
     ),
-    'version'      => '1.0.0',
+    'version'      => '1.0.1',
     'author'       => 'Philip Pflästerer',
     
     /*
