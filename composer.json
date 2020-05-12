@@ -9,7 +9,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Pflaesterer\\VouchIgnore\\": "./"
+			"Pflaesterer\\VouchIgnore\\": "../../../source/modules/pflaesterer/vouchignore"
 		}
 	}
 }
